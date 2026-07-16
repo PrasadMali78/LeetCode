@@ -1,9 +1,5 @@
 class Solution:
     def gcdSum(self, nums: list[int]) -> int:
-        from math import gcd
-
-class Solution:
-    def gcdSum(self, nums: list[int]) -> int:
         prefixGcd = []
         mx = 0
 
