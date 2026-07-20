@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PrasadMali78/LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrasadMali78/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrasadMali78/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PrasadMali78/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrasadMali78/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/PrasadMali78/LeetCode/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/PrasadMali78/LeetCode/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrasadMali78/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
