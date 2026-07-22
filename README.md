@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PrasadMali78/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrasadMali78/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/PrasadMali78/LeetCode/tree/master/0031-next-permutation) |
+| [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrasadMali78/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
