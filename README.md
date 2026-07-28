@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PrasadMali78/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/PrasadMali78/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PrasadMali78/LeetCode/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrasadMali78/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -87,15 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
