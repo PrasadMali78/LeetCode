@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PrasadMali78/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/PrasadMali78/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/PrasadMali78/LeetCode/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PrasadMali78/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrasadMali78/LeetCode/tree/master/0036-valid-sudoku) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
