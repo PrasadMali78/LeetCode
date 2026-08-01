@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrasadMali78/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrasadMali78/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrasadMali78/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrasadMali78/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrasadMali78/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrasadMali78/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrasadMali78/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrasadMali78/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PrasadMali78/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PrasadMali78/LeetCode/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
