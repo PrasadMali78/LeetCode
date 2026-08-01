@@ -6,4 +6,7 @@ class Solution:
 
         while power < n:
             power = power * 3
-        return power == n
+        if power == n:
+            return True
+        else:
+            return False
