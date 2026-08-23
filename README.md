@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrasadMali78/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrasadMali78/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PrasadMali78/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrasadMali78/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/PrasadMali78/LeetCode/tree/master/0520-detect-capital) |
+| [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrasadMali78/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -163,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/PrasadMali78/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 ## Depth-First Search
 |  |
 | ------- |
