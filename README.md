@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrasadMali78/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/PrasadMali78/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrasadMali78/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrasadMali78/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasadMali78/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 ## Depth-First Search
 |  |
@@ -193,14 +197,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 ## Segment Tree
 |  |
 | ------- |
