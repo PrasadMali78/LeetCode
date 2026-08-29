@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PrasadMali78/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/PrasadMali78/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/PrasadMali78/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PrasadMali78/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrasadMali78/LeetCode/tree/master/0231-power-of-two) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrasadMali78/LeetCode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasadMali78/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrasadMali78/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PrasadMali78/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrasadMali78/LeetCode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/PrasadMali78/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PrasadMali78/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrasadMali78/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrasadMali78/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/PrasadMali78/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PrasadMali78/LeetCode/tree/master/0342-power-of-four) |
