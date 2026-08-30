@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrasadMali78/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/PrasadMali78/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
