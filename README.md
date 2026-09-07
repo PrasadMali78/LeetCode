@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PrasadMali78/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/PrasadMali78/LeetCode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/PrasadMali78/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrasadMali78/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
