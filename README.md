@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PrasadMali78/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/PrasadMali78/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrasadMali78/LeetCode/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/PrasadMali78/LeetCode/tree/master/0835-image-overlap) |
 ## Greedy
 |  |
 | ------- |
