@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PrasadMali78/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/PrasadMali78/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrasadMali78/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/PrasadMali78/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PrasadMali78/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrasadMali78/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -284,9 +286,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrasadMali78/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrasadMali78/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrasadMali78/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrasadMali78/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrasadMali78/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
