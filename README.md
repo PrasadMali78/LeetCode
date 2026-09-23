@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/PrasadMali78/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrasadMali78/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrasadMali78/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/PrasadMali78/LeetCode/tree/master/0290-word-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/PrasadMali78/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrasadMali78/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/PrasadMali78/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -263,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrasadMali78/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
