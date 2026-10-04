@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PrasadMali78/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrasadMali78/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/PrasadMali78/LeetCode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/PrasadMali78/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PrasadMali78/LeetCode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PrasadMali78/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/PrasadMali78/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrasadMali78/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Linked List
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/PrasadMali78/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/PrasadMali78/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/PrasadMali78/LeetCode/tree/master/1140-stone-game-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PrasadMali78/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/PrasadMali78/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/PrasadMali78/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PrasadMali78/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PrasadMali78/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PrasadMali78/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrasadMali78/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tournament Sort
