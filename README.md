@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PrasadMali78/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrasadMali78/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrasadMali78/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrasadMali78/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrasadMali78/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrasadMali78/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrasadMali78/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PrasadMali78/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrasadMali78/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrasadMali78/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrasadMali78/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/PrasadMali78/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/PrasadMali78/LeetCode/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrasadMali78/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrasadMali78/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/PrasadMali78/LeetCode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrasadMali78/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PrasadMali78/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrasadMali78/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrasadMali78/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrasadMali78/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PrasadMali78/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrasadMali78/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrasadMali78/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrasadMali78/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
